@@ -5,3 +5,4 @@ excecutable cisfun
 excecutable cisfun
 using printf
 size off
+intel syntax
