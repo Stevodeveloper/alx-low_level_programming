@@ -15,7 +15,7 @@ int main(void)
 		putchar(lower);
 		lower++;
 
-		printf("\n")
+		printf("\n");
 	}
 
 	return (0);
