@@ -10,11 +10,8 @@ int main(void)
 {
 	char lower = 'a';
 
-	while (lower <= 'z')
-	{
+	for (lower = 'a'; lower <= 'z'; lower++)
 		putchar(lower);
-		lower++;
-	}
-
+	printf("\n");
 	return (0);
 }
