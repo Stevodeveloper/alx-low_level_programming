@@ -2,3 +2,4 @@ any uppercase
 check digit
 multiplication
 numbers
+2 and 4 not printed
