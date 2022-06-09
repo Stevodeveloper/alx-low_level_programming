@@ -7,3 +7,4 @@ lines of numbers
 line
 diagonal line
 squares
+fizz buzz
