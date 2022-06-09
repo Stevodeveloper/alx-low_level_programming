@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * more_numbers - prints a line of numbers
- * @void: no value returned
- * Return: Always 0.
+ * more_numbers - prints a line of numbers from 0 to 14,
+ * and ends with a new line.
+ * 
+ * Return: Always 0
  */
 void more_numbers(void)
 {
@@ -16,6 +17,7 @@ void more_numbers(void)
 		{
 			if (l > 9)
 				_putchar(l / 10 + '0');
+
 			_putchar(l % 10 + '0');
 
 		}
