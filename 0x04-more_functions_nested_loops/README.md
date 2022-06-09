@@ -5,3 +5,4 @@ numbers
 2 and 4 not printed
 lines of numbers
 line
+diagonal line
