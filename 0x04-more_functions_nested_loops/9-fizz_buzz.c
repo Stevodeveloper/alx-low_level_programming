@@ -9,7 +9,7 @@ int main(void)
 {
 	int no;
 
-	for (no = 0; no <= 100; no++)
+	for (no = 1; no <= 100; no++)
 	{
 		if (no % 3 == 0)
 			printf("FIZZ ");
