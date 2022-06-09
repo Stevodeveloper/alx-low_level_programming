@@ -6,3 +6,4 @@ numbers
 lines of numbers
 line
 diagonal line
+squares
