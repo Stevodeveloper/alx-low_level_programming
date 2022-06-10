@@ -10,3 +10,4 @@ squares
 fizz buzz
 triangle
 triangle
+primecomposite
