@@ -8,3 +8,4 @@ line
 diagonal line
 squares
 fizz buzz
+triangle
