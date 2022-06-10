@@ -9,3 +9,4 @@ diagonal line
 squares
 fizz buzz
 triangle
+triangle
