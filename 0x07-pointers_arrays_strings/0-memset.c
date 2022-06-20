@@ -2,7 +2,7 @@
 
 /**
  * _memset - fills the first n bytes of the memory area pointed,
- *to by s with the * constant byte b
+ * to by s with the * constant byte b
  * @s: memory area
  * @b: replacement of s
  * @n: byte of memory
@@ -10,14 +10,12 @@
  */
 char *_memset(char *s, char b, unsigned int n)
 {
-	int size = n;
+	char *start = s;
 
-	if (size > 0)
+	while (n--)
 	{
-		int i;
-
-		for (i = 0; i < size; i++)
-			s[i] = b;
+		*s = b;
+		s++;
 	}
-	return (0);
+	return (start);
 }
