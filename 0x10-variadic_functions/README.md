@@ -1,0 +1,1 @@
+variadic functions are easy
