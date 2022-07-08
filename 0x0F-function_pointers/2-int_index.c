@@ -2,7 +2,7 @@
 
 /**
  * int_index - returns index of the first element
- * @arrray: is an array of integers
+ * @array: is an array of integers
  * @size: is number of elements in the array
  * @cmp: function pointer
  * Return:index of the first element
